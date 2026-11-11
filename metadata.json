@@ -1,0 +1,6 @@
+{
+  "name": "MyBusiness — Cross-Border Merchant Desk",
+  "description": "Autonomous voice-first cross-border merchant desk bridging multilingual voice notes and handwritten ledgers with PayPal Invoicing and real-time financial reconciliation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
